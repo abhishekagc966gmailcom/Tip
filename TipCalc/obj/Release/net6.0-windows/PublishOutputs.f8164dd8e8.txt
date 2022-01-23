@@ -1,0 +1,5 @@
+C:\Users\Abhishek\source\repos\TipCalc\TipCalc\bin\publish\TipCalculatoR\TipCalc.exe
+C:\Users\Abhishek\source\repos\TipCalc\TipCalc\bin\publish\TipCalculatoR\TipCalc.dll
+C:\Users\Abhishek\source\repos\TipCalc\TipCalc\bin\publish\TipCalculatoR\TipCalc.deps.json
+C:\Users\Abhishek\source\repos\TipCalc\TipCalc\bin\publish\TipCalculatoR\TipCalc.runtimeconfig.json
+C:\Users\Abhishek\source\repos\TipCalc\TipCalc\bin\publish\TipCalculatoR\TipCalc.pdb

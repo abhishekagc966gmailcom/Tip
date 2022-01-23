@@ -1,0 +1,5 @@
+C:\Users\Abhishek\Desktop\appp\TipCalc.exe
+C:\Users\Abhishek\Desktop\appp\TipCalc.dll
+C:\Users\Abhishek\Desktop\appp\TipCalc.deps.json
+C:\Users\Abhishek\Desktop\appp\TipCalc.runtimeconfig.json
+C:\Users\Abhishek\Desktop\appp\TipCalc.pdb
